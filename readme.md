@@ -6,7 +6,7 @@
   <!-- Tech stack-->
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+    <img src="https://img.shields.io/badge/javaScript-white?style=for-the-badge&logo=javascript&logoColor=white&color=yellow">&nbsp
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/sql-FF9900?style=for-the-badge&logo=SQL&logoColor=white">&nbsp    
@@ -15,21 +15,27 @@
   
   <div align="center">
     <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&color=blue&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/tailwind-green?style=for-the-badge&logo=tailwindcss&color=black">&nbsp
+  </div>
+
+  <br>
+  <div align="center">
+    <img src="https://img.shields.io/badge/cypress-white?style=for-the-badge&logo=cypress&logoColor=white&color=black">&nbsp
+    <img src="https://img.shields.io/badge/pytest-white?style=for-the-badge&logo=pytest&logoColor=white&color=black">&nbsp
+
   </div>
   
   <br>
   
   <h3 align="center">📚 Studying 📚</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-FF9900?style=for-the-badge&logo=Java&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Vue.js-blue?style=for-the-badge&logo=Vue.js&color=blue">&nbsp
-    <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&color=blue">&nbsp
+    <img src="https://img.shields.io/badge/Vue.js-blue?style=for-the-badge&logo=Vue.js&color=black">&nbsp
+    <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&color=black">&nbsp
     <img src="https://img.shields.io/badge/next-green?style=for-the-badge&logo=nextdotjs&color=black">&nbsp
-
-    
 
   </div>
   
@@ -69,4 +75,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
